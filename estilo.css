@@ -1,0 +1,38 @@
+body {
+    background: bisque;
+}
+
+ .h1 {
+ text-align: center;
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ margin: 50px 0px;
+
+}
+.lv {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin: 50px 0px;
+}
+    
+
+.contenedor {
+
+    width: 75vw;
+    max-width: 1394px;
+    min-width: 320px;
+    margin: auto;
+}  
+
+.chems {
+width: 45%;
+
+} 
+
+.PERRO {
+    width: 45%;
+
+}
+
+
+
+
